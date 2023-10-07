@@ -1,0 +1,31 @@
+{
+  "name": "2captcha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@antiadmin/anticaptchaofficial": "^1.0.42",
+    "2captcha": "^3.0.7",
+    "api-key": "^0.0.0",
+    "cheerio": "^1.0.0-rc.12",
+    "chrome-launcher": "^1.0.0",
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "get-username": "^1.2.0",
+    "promise-poller": "^1.9.1",
+    "public-ip": "^6.0.1",
+    "puppeteer": "^21.3.6",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-recaptcha": "^3.6.8",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.9",
+    "two-captcha": "^1.1.2",
+    "whisper-node": "^0.2.12"
+  }
+}
